@@ -21,7 +21,7 @@ This small project was made to show a basic example of a SpringBoot project and 
 
 >[!NOTE]
 >This project was made using Spring Tool Suite 4 in Eclipse.
->The Database used was MySQL executed in my local machine.
+>The Database used was MySQL executed in a local machine.
 
 >[!IMPORTANT]
 >In order to make build the project correctly you need to use the next dependencies:
