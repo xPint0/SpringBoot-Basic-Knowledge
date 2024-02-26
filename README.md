@@ -25,11 +25,11 @@ This small project was made to show a basic example of a SpringBoot project and 
 
 >[!IMPORTANT]
 >In order to make build the project correctly you need to use the next dependencies:
->Lombok.
->MySQL Driver.
->Spring Boot DevTools.
->Spring Data JPA.
->Spring Web.
+>- Lombok.
+>- MySQL Driver.
+>- Spring Boot DevTools.
+>- Spring Data JPA.
+>- Spring Web.
 
 >[!TIP]
 >If you dont want to create a a Service interface for each entity,
