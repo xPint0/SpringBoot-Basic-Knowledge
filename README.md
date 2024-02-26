@@ -16,7 +16,7 @@ This small project was made to show a basic example of a SpringBoot project and 
 11. Check if the controllers work using Postman or other tool
 
 
->[!NOTE}
+>[!NOTE]
 >This project was made using Spring Tool Suite 4 in Eclipse.
 >The Database used was MySQL executed in my local machine.
 
