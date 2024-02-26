@@ -1,4 +1,4 @@
-# SpringBoot-Basic Knowledge
+# SpringBoot-Basic-Knowledge
 This small project was made to show a basic example of a SpringBoot project and how it works.
 
 ---
