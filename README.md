@@ -1,11 +1,13 @@
 # SpringBoot-Basic Knowledge
 This small project was made to show a basic example of a SpringBoot project and how it works.
 
+---
+
 **Steps to make**
 
 1. Build the Spring project
 2. Change the application.properties in src/main/resources to adapt it to you
-3. Create the the /controller, /entities, /repository and /service packages from the parent one
+3. Create the the */controller*, */entities*, */repository* and */service* packages from the parent one
 4. Create your entities and the relation between them
 5. Create the repositories extending form JpaRepository
 6. Create your services (or a generic one)
@@ -15,6 +17,7 @@ This small project was made to show a basic example of a SpringBoot project and 
 10. Enter data
 11. Check if the controllers work using Postman or other tool
 
+---
 
 >[!NOTE]
 >This project was made using Spring Tool Suite 4 in Eclipse.
